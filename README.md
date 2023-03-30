@@ -6,7 +6,10 @@
         <h1 align="centre">Youtube Data Analysis</h1>
       </div>
     </div>
-    <h3>This project involves analyzing the data related to YouTube videos, channels, and audiences to gain insights into video performance, audience engagement, and other key metrics. The project utilizes YouTube's public dataset to collect data, which is then analyzed using Python and data analysis tools such as Pandas and Matplotlib.</h1>
+    <h2>Introduction</h2>
+    <h3>YouTube has become one of the most popular platforms for video content consumption, with billions of users worldwide. As a result, analyzing YouTube data has become an important tool for content creators, marketers, and businesses looking to gain insights into user behavior and preferences.YouTube data analysis involves using statistical techniques to analyze large sets of data to identify patterns, trends, and insights.</h3>
+    <h2>About The Project</h2>
+    <h3>This project involves analyzing the data related to YouTube videos, channels, and audiences to gain insights into video performance, audience engagement, and other key metrics. The project utilizes YouTube's public dataset to collect data, which is then analyzed using Python and data analysis tools such as Pandas and Matplotlib.</h3>
 <h2>Conclusions</h2>
 <ul>
   <li>United Kingdom has the highest views as compared to other countries.</li>
